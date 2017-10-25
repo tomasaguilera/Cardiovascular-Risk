@@ -1,0 +1,46 @@
+c:\users\tomas\documents\visual studio 2010\Projects\Capstone\Capstone\bin\Debug\Capstone.exe
+c:\users\tomas\documents\visual studio 2010\Projects\Capstone\Capstone\bin\Debug\Capstone.pdb
+c:\users\tomas\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.Form1.resources
+c:\users\tomas\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.Form2.resources
+c:\users\tomas\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.Properties.Resources.resources
+c:\users\tomas\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.csproj.GenerateResource.Cache
+c:\users\tomas\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+c:\users\tomas\documents\visual studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+c:\Users\Tomas\Documents\Visual Studio 2010\Projects\Capstone\Capstone\obj\x86\Debug\Capstone.Form3.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Diego\Desktop\capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\Diego\Desktop\capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.Form1.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.Form2.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.Form3.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.Properties.Resources.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.csproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.Examenes.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.TraeExamenes.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.Diabetico.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.FonasaIsapre.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.TraeExamenesFramingham.resources
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.csproj.ResolveComReference.cache
+C:\Users\Diego\Desktop\capstone\Capstone\obj\x86\Debug\Capstone.NoSeHaceExamenes.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.csproj.ResolveComReference.cache
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.Diabetico.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.Examenes.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.FonasaIsapre.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.Form1.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.Form2.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.Form3.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.NoSeHaceExamenes.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.Properties.Resources.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.TraeExamenes.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.TraeExamenesFramingham.resources
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.csproj.GenerateResource.Cache
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\Tomas\Desktop\PC Sager\Universidad\10mo Semestre\Capstone\Entrega 3\Capstone\Capstone\obj\x86\Debug\Capstone.Examenes_Compatibles.resources
